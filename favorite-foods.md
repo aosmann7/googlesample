@@ -1,4 +1,4 @@
-#My Favorite Foods
+# My Favorite Foods
 
 1. Kabobs
 2. Pizza
