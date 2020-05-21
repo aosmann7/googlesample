@@ -5,3 +5,4 @@
 3. Watching Anime
 4. Coding
 5. Gaming
+6. Meditating
