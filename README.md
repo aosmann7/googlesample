@@ -1,3 +1,3 @@
-This is my file.
+# About Me Project Practice Google
 
-I am making my first changes to this file.
+This my about me project. A nice little intro to how to use Git and GitHub.
